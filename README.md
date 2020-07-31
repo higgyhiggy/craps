@@ -70,3 +70,5 @@ Horn Bet: it acts as the bets on 2, 3, 11 and 12 all at once. Wins if one of the
 Hardways: The bet on a hardway number wins if it's thrown hard (sum of pairs: 1-1, 3-3, 4-4...) before it's rolled easy and a 7 is thrown. Payoffs: Hard 4 and 10, 8:1; Hard 6 and 8, 10:1
 House advantage
 2 - 17%
+
+this is just to test trigger
