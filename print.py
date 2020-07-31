@@ -2,7 +2,7 @@ def b():
     print('a')
     print('b')
 def a():
-    print('seconda')
+    print('merge conflict now ?')
     print('test')
 
      
