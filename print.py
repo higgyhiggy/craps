@@ -6,7 +6,7 @@ def b():
     print('b')
 def a():
     print('local change now')
-    print('test')
+
 
      
 
