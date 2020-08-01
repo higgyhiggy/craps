@@ -5,7 +5,7 @@ def b():
     print('a')
     print('b')
 def a():
-    print('new and final changes')
+    print('to show merge conflict')
 
 
      
