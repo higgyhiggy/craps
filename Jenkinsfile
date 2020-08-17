@@ -21,7 +21,7 @@ pipeline {
 
          post {
             success {
-               sh "echo SUCCESS"
+               echo 'sucesss full'
             }
          }
       }
